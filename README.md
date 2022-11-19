@@ -4,7 +4,7 @@ Hi there :wave: welcome to my Github profile!
 
 - :telescope: I’m currently working on: The Odin Project; A free resource driven by its community dedicated to learning Full-Stack Web Development!
 
-- :seedling: I’m currently learning: HTML, CSS, Flexbox, Grid, Javascript, Ruby On Rails.
+- :seedling: I’m currently learning: HTML, CSS, Flexbox, Grid, Javascript, React.
 
 - :mailbox: How to reach me: tonywu.fs@gmail.com
 
