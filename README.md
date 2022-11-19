@@ -6,8 +6,6 @@ Hi there :wave: welcome to my Github profile!
 
 - :seedling: I’m currently learning: HTML, CSS, Flexbox, Grid, Javascript, React.
 
-- :mailbox: How to reach me: tonywu.fs@gmail.com
-
 - :zap: Fun fact: 48 hours of YouTube footage gets uploaded every single minute; Oh boy... When will the tutorials end?
 
 -------
