@@ -2,11 +2,9 @@
 
 Hi there :wave: welcome to my Github profile!
 
-- :telescope: I’m currently working on: The Odin Project; A free resource driven by its community dedicated to learning Full-Stack Web Development!
+- :telescope: Going through ' The Odin Project ' A free resource driven by its community dedicated to learning Full-Stack Web Development.
 
 - :seedling: I’m currently learning: HTML, CSS, Flexbox, Grid, Javascript, React.
-
-- :zap: Fun fact: 48 hours of YouTube footage gets uploaded every single minute; Oh boy... When will the tutorials end?
 
 -------
 
